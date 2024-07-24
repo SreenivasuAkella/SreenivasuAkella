@@ -5,6 +5,19 @@
   </a>
 </p>
 
+## <img src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/programming.svg" width="50px" alt="About Me Icon"> About Me
+
+<p align="right">
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px" alt="Right Side Image">
+</p>
+
+- 🌟 Passionate about Software Development with a keen interest in exploring new opportunities..
+- 🤖 Experienced in implementing Machine Learning algorithms to address real-world challenges.
+- 📚 Proficient in Data Structures and Algorithms.
+- 💻 Enthusiastic coder who enjoys solving complex problems
+- 📧 Feel free to reach out to me at **sreenivasuakella@gmail.com**.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
