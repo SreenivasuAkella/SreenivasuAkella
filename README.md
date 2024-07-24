@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akella V S Sreenivasu</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student+IIT+Dh;Learner+Web+%26+Software+Development;Enthusiastic+in+AIML" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7B3&width=435&lines=Computer+science+student+IIT+Dh;Learner+Web+%26+Software+Development;Enthusiastic+in+AIML" alt="Typing SVG" /></a>
 </p>
 
 ## <img src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/programming.svg" width="50px" alt="About Me Icon"> About Me
